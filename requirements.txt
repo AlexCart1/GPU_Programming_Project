@@ -1,1 +1,5 @@
-à remplir
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
