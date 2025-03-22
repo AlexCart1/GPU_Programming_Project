@@ -1,0 +1,16 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Fichiers temporaires
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Autres
+.DS_Store
