@@ -17,7 +17,7 @@ Ce projet a pour but d’implémenter et d’optimiser l’algorithme de cluster
 - Application : reconnaissance de gestes, suivi de mouvements.
 
 ---
----
+
 
 ## ⚙️ Plan du projet
 
